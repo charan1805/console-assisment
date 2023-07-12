@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\bin\Debug\ConsoleApp assignment.exe.config
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\bin\Debug\ConsoleApp assignment.exe
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\bin\Debug\ConsoleApp assignment.pdb
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\obj\Debug\ConsoleApp assignment.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\obj\Debug\ConsoleApp assignment.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\obj\Debug\ConsoleApp assignment.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\obj\Debug\ConsoleApp assignment.exe
+E:\my details\personal\c sharp\ConsoleApp assignment\ConsoleApp assignment\obj\Debug\ConsoleApp assignment.pdb
